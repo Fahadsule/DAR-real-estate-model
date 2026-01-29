@@ -1,0 +1,55 @@
+date,region,district,ward,street/landmark,property_type,deal_type,asking_price(tzs),size(sqm),no_bed_rooms,specials,documents
+2026-01-28,Dar-es-salaam,Kinondoni,Madale,Ushuwani,plot,buy,155000000,1300,null,null,null
+2026-01-28,Dar-es-salaam,Kinondoni,Goba,Center,plot,buy,29000000,400,null,Near_main_road,null
+2026-01-28,Dar-es-salaam,Kinondoni,Goba,Lastanza,house,buy,480000000,500,3,null,title_deed
+2026-01-28,Dar-es-salaam,Kinondoni,Goba,Center,plot,buy,65000000,740,null,null,null
+2026-01-28,Dar-es-salaam,KInondoni,Goba,Kulangwa,plot,buy,185000000,1500,null,null,measured
+2026-01-28,Dar-es-salaam,Kinondoni,Goba,Maghorofani,house,buy,770000000,2200,5,null,title_deed
+2026-01-28,Dar-es-salaam,Kinondoni,Sala-sala,ushuwani,plot,buy,450000000,2300,null,null,title_deed
+2026-01-28,Dar-es-salaam,Kinondoni,Goba,Center,plot,buy,29000000,415,null,Near_main_road,null
+2026-01-20,Dar-es-salaam,Kinondoni,Madale,Police,plot,buy,33000000,400,null,null,null
+2026-01-20,Dar-es-salaam,Kinondoni,Goba,Makongo,house,buy,490000000,500,3,null,title_deed
+2026-01-20,Dar-es-salaam,Kinondoni,Madale,Police,plot,buy,370000000,2600,null,Near_main_road,title_deed
+2026-01-20,Dar-es-salaam,Kinondoni,Madale,Mivumoni,plot,buy,67000000,541,null,Near_main_road,measured
+2026-01-20,Dar-es-salaam,Kinondoni,Madale,Mivumoni,plot,buy,85000000,685,null,Near_main_road,measured
+2026-01-20,Dar-es-salaam,Kinondoni,Madale,Mivumoni,plot,buy,90000000,725,null,Near_main_road,measured
+2026-01-20,Dar-es-salaam,Kinondoni,Madale,Mivumoni,plot,buy,93000000,744,null,Near_main_road,measured
+2026-01-20,Dar-es-salaam,Kinondoni,Madale,Mivumoni,plot,buy,96000000,770,null,Near_main_road,measured
+2026-01-20,Dar-es-salaam,Kinondoni,Madale,Mivumoni,plot,buy,102000000,820,null,Near_main_road,measured
+2026-01-20,Dar-es-salaam,Kinondoni,Madale,Mivumoni,plot,buy,104000000,833,null,Near_main_road,measured
+2026-01-20,Dar-es-salaam,Kinondoni,Madale,Mivumoni,plot,buy,113000000,910,null,Near_main_road,measured
+2026-01-20,Dar-es-salaam,Kinondoni,Madale,Mivumoni,plot,buy,138000000,1111,null,Near_main_road,measured
+2026-01-20,Dar-es-salaam,Kinondoni,Madale,Mivumoni,plot,buy,150000000,1203,null,Near_main_road,measured
+2026-01-20,Dar-es-salaam,Kinondoni,Goba,Kulangwa,plot,buy,62000000,600,null,Near_main_road,title_deed
+2026-01-16,Dar-es-salaam,Kinondoni,Goba,Makongo,plot,buy,155000000,800,null,null,null
+2026-01-16,Dar-es-salaam,Kinondoni,Goba,Makongo,plot,buy,160000000,1000,null,null,null
+2026-01-16,Dar-es-salaam,Kinondoni,Mbweni,Kilima hewa,plot,buy,250000000,1200,null,Close_to_beach,null
+2026-01-15,Dar-es-salaam,Kinondoni,Goba,Kulangwa,plot,buy,93000000,820,null,null,null
+2026-01-11,Dar-es-salaam,Kinondoni,Goba,Kulangwa,plot,buy,97000000,800,null,null,null
+2026-01-09,Dar-es-salaam,Kinondoni,Goba,Majengo,plot,buy,27000000,354,null,Near_main_road,null
+2026-01-09,Dar-es-salaam,Kinondoni,Goba,Majengo,plot,buy,31000000,400,null,Near_main_road,null
+2026-01-09,Dar-es-salaam,Kinondoni,Goba,Majengo,plot,buy,31000000,413,null,Near_main_road,null
+2026-01-09,Dar-es-salaam,Kinondoni,Goba,Majengo,plot,buy,55000000,700,null,Near_main_road,null
+2026-01-09,Dar-es-salaam,Kinondoni,Goba,Majengo,plot,buy,65000000,710,null,Near_main_road,null
+2026-01-09,Dar-es-salaam,Kinondoni,Mbweni,Kilima hewa,plot,buy,250000000,1150,null,Near_main_road,title_deed
+2026-01-09,Dar-es-salaam,Kinondoni,Mbweni,Kilima hewa,plot,buy,250000000,1200,null,Near_main_road,title_deed
+2026-01-09,Dar-es-salaam,Kinondoni,Mbweni,JKT,plot,buy,1500000000,3400,null,Near_main_road,title_deed
+2026-01-09,Dar-es-salaam,Kinondoni,Mbweni,Kilima hewa,plot,buy,240000000,1200,null,null,title_deed
+2026-01-09,Dar-es-salaam,Kinondoni,Mbweni,JKT,plot,buy,480000000,1600,null,null,title_deed
+2026-01-09,Dar-es-salaam,Kinondoni,Mbweni,JkT,plot,buy,750000000,2047,null,null,title_deed
+2025-12-27,Dar-es-salaam,Kinondoni,Mbweni,JKT,plot,buy,1500000000,3300,null,null,title_deed
+2025-12-27,Dar-es-salaam,Kinondoni,Madale,Uzunguni,plot,buy,36000000,400,null,Near_main_road,null
+2025-12-27,Dar-es-salaam,Kinondoni,Makongo,CCM,plot,buy,115000000,750,null,Near_main_road,null
+2025-12-27,Dar-es-salaam,Kinondoni,Goba,Maghorofani,house,buy,770000000,2100,6,null,title_deed
+2025-12-27,Dar-es-salaam,Kinondoni,Goba,Half london,plot,buy,450000000,3524,null,Near_main_road,title_deed
+2025-12-24,Dar-es-salaam,Kinondoni,Goba,Center,plot,buy,210000000,1500,null,null,null
+2025-12-18,Dar-es-salaam,Kinondoni,Goba,Half london,plot,buy,500000000,3524,null,Near_main_road,title_deed
+2025-12-17,Dar-es-salaam,Kinondoni,Goba,Half london,house,buy,225000000,1200,5,unfinished,title_deed
+2025-12-15,Dar-es-salaam,Kinondoni,Makongo,CCM,plot,buy,116000000,750,null,Near_main_road,null
+2025-12-12,Dar-es-salaam,Kinondoni,Madale,Ushuwani,house,buy,150000000,400,2,null,null
+2025-12-10,Dar-es-salaam,Kinondoni,Goba,Lastanza,house,buy,590000000,700,4,null,null
+2025-12-10,Dar-es-salaam,Kinondoni,Madale,Mivumuni,plot,buy,185000000,1300,null,Near_main_road,title_deed
+2025-12-08,Dar-es-salaam,Kinondoni,Makongo,CCM,plot,buy,115000000,732,null,null,null
+2025-12-05,Dar-es-salaam,Kinondoni,Goba,Kulangwa,house,buy,750000000,760,6,null,null
+2025-12-03
+
